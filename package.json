@@ -1,0 +1,17 @@
+{
+  "name": "test-mpa",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.1.5",
+    "vite-plugin-virtual-mpa": "^1.10.1"
+  }
+}
